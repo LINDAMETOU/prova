@@ -1,4 +1,4 @@
 <?php
 echo "hello word";
-//echo"finalmene";
+///echo"finalmene";
 ?>
